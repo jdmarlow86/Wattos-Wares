@@ -1,0 +1,5 @@
+"Jabba Hutt","Tattooine",1,"Gangster"
+"Jango Fett","Kamino",1,"Bounty Hunter"
+"Obiwan Kenobi","Tattooine",0,"Jedi"
+"Quai Gon-Jin","Corucant",0,"Jedi"
+"Sebulba","Malastare",1,"Podracer"
